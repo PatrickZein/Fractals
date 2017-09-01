@@ -1,0 +1,49 @@
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe.config
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Fraktaler\Function Mountain 2\obj\Debug\Function_Mountain_2.Properties.Resources.resources
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csproj.GenerateResource.Cache
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe.config
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ\Fraktaler\Function Mountain 2\obj\Debug\Function_Mountain_2.Properties.Resources.resources
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csproj.GenerateResource.Cache
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ C# program\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe.config
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ C# program\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ C# program\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ C# program\Fraktaler\Function Mountain 2\obj\Debug\Function_Mountain_2.Properties.Resources.resources
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ C# program\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csproj.GenerateResource.Cache
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ C# program\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ C# program\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\PHZ C# program\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2015\PHZ C# program\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2015\PHZ C# program\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.exe
+C:\Users\Notandi\Documents\Visual Studio 2015\PHZ C# program\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.pdb
+C:\Users\Notandi\Documents\Visual Studio 2015\PHZ C# program\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe
+C:\Users\Notandi\Documents\Visual Studio 2015\PHZ C# program\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.pdb
+C:\Users\Notandi\Documents\Visual Studio 2015\PHZ C# program\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2015\PHZ C# program\Fraktaler\Function Mountain 2\obj\Debug\Function_Mountain_2.Properties.Resources.resources
+C:\Users\Notandi\Documents\Visual Studio 2015\PHZ C# program\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csproj.GenerateResource.Cache
+C:\Users\Notandi\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe.config
+C:\Users\Notandi\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.exe
+C:\Users\Notandi\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.pdb
+C:\Users\Notandi\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\obj\Debug\Function_Mountain_2.Properties.Resources.resources
+C:\Users\Notandi\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csproj.GenerateResource.Cache
+C:\Users\Notandi\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe
+C:\Users\Notandi\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.pdb
+C:\Users\patri\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+C:\Users\patri\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\obj\Debug\Function_Mountain_2.Properties.Resources.resources
+C:\Users\patri\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csproj.GenerateResource.Cache
+C:\Users\patri\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.exe
+C:\Users\patri\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.pdb
+C:\Users\patri\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe.config
+C:\Users\patri\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe
+C:\Users\patri\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.pdb
+C:\Users\patri\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csproj.CoreCompileInputs.cache

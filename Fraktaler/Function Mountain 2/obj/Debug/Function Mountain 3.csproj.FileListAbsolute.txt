@@ -1,0 +1,11 @@
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Function Mountain 3\Function Mountain 2\bin\Debug\Function Mountain 2.exe.config
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Function Mountain 3\Function Mountain 2\obj\Debug\Function Mountain 2.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Function Mountain 3\Function Mountain 2\obj\Debug\Function Mountain 2.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Function Mountain 3\Function Mountain 2\bin\Debug\Function Mountain 2.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Function Mountain 3\Function Mountain 2\bin\Debug\Function Mountain 2.pdb
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Function Mountain 3\Function Mountain 2\obj\Debug\Function Mountain 3.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Function Mountain 3\Function Mountain 2\obj\Debug\Function_Mountain_2.Properties.Resources.resources
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Function Mountain 3\Function Mountain 2\obj\Debug\Function Mountain 3.csproj.GenerateResource.Cache
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe.config
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.exe
+C:\Users\patrick\Documents\Visual Studio 2015\Projects\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.pdb
