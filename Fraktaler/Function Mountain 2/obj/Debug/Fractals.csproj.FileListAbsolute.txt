@@ -47,3 +47,34 @@ C:\Users\patri\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\bin\De
 C:\Users\patri\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe
 C:\Users\patri\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.pdb
 C:\Users\patri\Documents\Visual Studio 2015\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\deltagare\Source\Repos\Fractals\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe.config
+C:\Users\deltagare\Source\Repos\Fractals\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.exe
+C:\Users\deltagare\Source\Repos\Fractals\Fraktaler\Function Mountain 2\bin\Debug\Function Mountain 2.pdb
+C:\Users\deltagare\Source\Repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+C:\Users\deltagare\Source\Repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\Function_Mountain_2.Properties.Resources.resources
+C:\Users\deltagare\Source\Repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csproj.GenerateResource.Cache
+C:\Users\deltagare\Source\Repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\deltagare\Source\Repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.exe
+C:\Users\deltagare\Source\Repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\Function Mountain 2.pdb
+F:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+F:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csproj.GenerateResource.Cache
+F:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csproj.CoreCompileInputs.cache
+D:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csproj.GenerateResource.Cache
+D:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csproj.CoreCompileInputs.cache
+D:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\bin\Debug\FractalExplorer.exe.config
+D:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\bin\Debug\FractalExplorer.exe
+D:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\bin\Debug\FractalExplorer.pdb
+D:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\FractalExplorer.Properties.Resources.resources
+D:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\FractalExplorer.exe
+D:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\FractalExplorer.pdb
+D:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+F:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\bin\Debug\FractalExplorer.exe.config
+F:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\bin\Debug\FractalExplorer.exe
+F:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\bin\Debug\FractalExplorer.pdb
+F:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\FractalExplorer.Properties.Resources.resources
+F:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\FractalExplorer.exe
+F:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\FractalExplorer.pdb
+D:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\FractalExplorer.ClickFrame.resources
+D:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\FractalExplorer.Fractal.resources
+F:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\FractalExplorer.ClickFrame.resources
+F:\### Aktuellt\repos\Fractals\Fraktaler\Function Mountain 2\obj\Debug\FractalExplorer.Fractal.resources
