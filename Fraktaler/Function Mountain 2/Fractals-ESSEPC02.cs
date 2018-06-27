@@ -133,32 +133,18 @@ namespace FractalExplorer
                     functionType = "z^3*exp(z)"; paramA = 0.45; paramB = 0.2; maxColour = 512; maxIter = 512; targetX = -1.3; break;
                 case 206:
                     functionType = "z^4*exp(z)"; paramA = 0.45; paramB = 0.024; maxColour = 128; maxIter = 128; zoomFactor = 0.3; targetX = -12; targetY = 5; break;
-                case 208: // Minovar
+                case 208:
                     functionType = "z^5*exp(z)"; paramA = 0.52; paramB = 0.018; maxColour = 512; maxIter = 1024; zoomFactor = 1; targetX = 0; targetY = 0; break;
-                case 209:
+                case 210:
                     functionType = "z^5*exp(z)"; paramA = 0.52; paramB = 0.018; maxColour = 512; maxIter = 1024; zoomFactor = 0.1; targetX = -15; targetY = 10; break;
-                case 211: // Änglar
-                    functionType = "z^5*exp(z)"; paramA = 0.5; paramB = 0.00899; maxIter = 256; maxColour = 256; zoomFactor = 1; targetX = 0; targetY = 0; break;
                 case 212:
-                    functionType = "z^5*exp(z)"; paramA = 0.5; paramB = 0.00899; maxIter = 256; maxColour = 256; zoomFactor = 0.1; targetX = -15; targetY = 0; break;
-                case 214: // Sökandet
-                    functionType = "z^5*exp(z)"; paramA = 0.51; paramB = 0.0204; maxIter = 256; maxColour = 256; zoomFactor = 1; targetX = 0; targetY = 0; break;
-                case 215:
-                    functionType = "z^5*exp(z)"; paramA = 0.51; paramB = 0.0204; maxIter = 256; maxColour = 256; zoomFactor = 0.1; targetX = -15; targetY = 0; break;
-                case 217:
-                    functionType = "z^5*exp(z)"; paramA = 0.502; paramB = 0.00819; maxColour = 128; maxIter = 1024; zoomFactor = 1; targetX = 0; targetY = 0; break; // Playground May 2018!
-                case 221:
-                    functionType = "z^6*exp(z)"; paramA = 0.8; paramB = 0.31251; maxColour = 512; maxIter = 512; zoomFactor = 1; targetX = 0; targetY = 0; break;
-                case 222:
-                    functionType = "z^6*exp(z)"; paramA = 0.8; paramB = 0.31251; maxColour = 256; maxIter = 256; zoomFactor = 0.1; targetX = -15; targetY = 0; break;
-                case 231:
-                    functionType = "z^7*exp(z)"; paramA = 0.65; paramB = 0.044804; maxColour = 512; maxIter = 512; zoomFactor = 1; targetX = 0; targetY = 0; break;
-                case 232:
-                    functionType = "z^7*exp(z)"; paramA = 0.65; paramB = 0.044804; maxColour = 512; maxIter = 512; zoomFactor = 0.1; targetX = -15; targetY = 0; break;
-                case 233:
-                    functionType = "z^7*exp(z)"; paramA = 0.65; paramB = 0.044; maxColour = 512; maxIter = 512; zoomFactor = 1; targetX = 0; targetY = 0; break;
-                case 234:
-                    functionType = "z^7*exp(z)"; paramA = 0.65; paramB = 0.044; maxColour = 512; maxIter = 512; zoomFactor = 0.1; targetX = -15; targetY = 0; break;
+                    functionType = "z^5*exp(z)"; paramA = 0.5; paramB = 0.00899; maxIter = 256; maxColour = 256; zoomFactor = 1; targetX = 0; targetY = 0; break;
+                case 214:
+                    functionType = "z^6*exp(z)"; paramA = 0.8; paramB = 0.31251; maxColour = 512; maxIter = 512; break;
+                case 216:
+                    functionType = "z^7*exp(z)"; paramA = 0.65; paramB = 0.044804; maxColour = 512; maxIter = 512; break;
+                case 218:
+                    functionType = "z^7*exp(z)"; paramA = 0.65; paramB = 0.044; maxColour = 512; maxIter = 512; break;
 
                 case 300: // Featherino
                     functionType = "z - (z^4-1)/(4z^3)"; paramA = 0.099; paramB = 0.099; maxColour = 64; maxIter = 128; targetX = 0; targetY = 0; zoomFactor = 1; break;
@@ -189,6 +175,10 @@ namespace FractalExplorer
                     functionType = "z^2*cos(z)^2"; paramA = 0.6246; paramB = 0.48; maxColour = 512; maxIter = 1024; break;
                 case 410:
                     functionType = "z^2*tan(z)^2"; paramA = 0.63; paramB = 0.485; maxColour = 256; maxIter = 256; break;
+                case 412:
+                    functionType = "z^2*sin(z)-cos(z)"; paramA = 0.2259; paramB = 0.124; maxColour = 256; maxIter = 256; zoomFactor = 1.1; break;
+                case 414:
+                    functionType = "z^3*sin(z)-2*cos(z)"; paramA = 1.09; paramB = 0.001; maxColour = 256; maxIter = 256; zoomFactor = 3; break;
                 default:
                     selection = false; break;
             }
@@ -438,6 +428,16 @@ namespace FractalExplorer
                             z = Complex.Multiply(Complex.Pow(z, 2), Complex.Pow(Complex.Tan(z), new Complex(2, 0))) + constC;
                             break;
                         }
+                    case "z^2*sin(z)-cos(z)":
+                        {
+                            z = Complex.Multiply(Complex.Pow(z, 2), Complex.Sin(z)) - Complex.Cos(z) + constC;
+                            break;
+                        }
+                    case "z^3*sin(z)-2*cos(z)":
+                        {
+                            z = Complex.Multiply(Complex.Pow(z, 3), Complex.Sin(z)) - Complex.Multiply(new Complex(2, 0), Complex.Cos(z)) + constC;
+                            break;
+                        }
                 }
 
                 x = z.Real;
@@ -468,7 +468,7 @@ namespace FractalExplorer
             int spectrum;
             long maxTime = 60000; // 1 minute = 60.000 mikroseconds
 
-            for (int i = 216; i < 1000; i++)
+            for (int i = 404; i < 1000; i++)
             {
                 formulaNr = i;
                 startPixWidth = 8;
@@ -687,7 +687,7 @@ namespace FractalExplorer
             // 
             // Fractal
             // 
-            this.ClientSize = new System.Drawing.Size(scrWidth, scrHeight)                ;
+            this.ClientSize = new System.Drawing.Size(scrWidth, scrHeight) ;
             this.Name = "Fractal";
             this.Load += new System.EventHandler(this.Fractal_Load);
             this.ResumeLayout(false);
